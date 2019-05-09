@@ -1,0 +1,5 @@
+Berikut adalah topik topik yang akan dipelajari dalam modul ini:
+1. Pengenalan Project
+2. Cara mendapatkan Microsoft Project dan cara instalasinya.
+3. Mengenal lingkungan kerja Microsoft Project
+4. Membuat rencana kegiatan 1 (Perencanaan Acara Ulang Tahun)
